@@ -1,5 +1,5 @@
 # Diverse_Cyber_2023
-A list of organizations and websites that are committed to ensuring people of diverse backgrounds are making their way into STEM, IT and Cybersecurity careers!
+A list of organizations and websites that are committed to ensuring people of diverse backgrounds are making their way into STEM, IT, and cybersecurity careers! This list was curated and communicated through a dear friend and colleague. More automations will be added to help spotlight these organizations.
 
 #  https://womenscyberjutsu.org/
 ## Committed to empowering women and girls in cybersecurity!
